@@ -2,8 +2,7 @@
 
 A powerful demo project that showcases **Multimodal Retrieval-Augmented Generation (RAG)** using **Cohere’s multimodal embeddings** and **Gemini 2.5 Flash** — enabling answers from both **text and images** in PDFs.
 
-📄 This project compares:
-- ✅ **Text-only RAG** (traditional)
+📄 This project :
 - ✅ **Multimodal RAG** (text + visual embeddings)
 
 🎥 [Watch the 9-min Demo on YouTube](https://www.youtube.com/watch?v=qI3lYZ6-79k)
@@ -16,7 +15,6 @@ A powerful demo project that showcases **Multimodal Retrieval-Augmented Generati
 - Store embeddings in **FAISS** for fast vector search
 - Retrieve the best match (text or image) from FAISS
 - Use **Gemini 2.5 Flash** to answer questions contextually
-- Compare **Multimodal vs Text-Only RAG** side-by-side
 
 ---
 
@@ -39,7 +37,7 @@ multimodal-rag-demo/
 - Python 3.8+
 - [Poppler](https://github.com/oschwartz10612/poppler-windows/releases) (for image conversion via `pdf2image`)
 - Cohere API key (https://dashboard.cohere.com/)
-- Gemini API access via [Google AI Studio](https://makersuite.google.com/)
+- Gemini API access via [[Google AI Studio](https://aistudio.google.com/)]
 
 ---
 
