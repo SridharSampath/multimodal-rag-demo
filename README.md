@@ -66,7 +66,8 @@ Read the full technical blog with diagrams
 🔗 Multimodal RAG with Cohere + Gemini Explained
 
 👨‍💻 Author
-I share my learnings around AI | ML | AWS | RAG on:
+I share my learnings around AI,ML,AWS:
 
-🔗 Hashnode Blog – sridhartech.hashnode.dev
-🔗 LinkedIn – Sridhar Sampath
+🔗 Hashnode Blog – sridhartech.hashnode.dev 
+🔗 LinkedIn – [Sridhar Sampath
+](https://www.linkedin.com/in/sridharsampath89/)
