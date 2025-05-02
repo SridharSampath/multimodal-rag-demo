@@ -59,6 +59,7 @@ GEMINI_API_KEY = "your-gemini-key"
 
 streamlit run app.py --server.port 
 
+---
 📖 Blog Walkthrough
 Read the full technical blog with diagrams
 🔗 Multimodal RAG with Cohere + Gemini Explained
